@@ -30,6 +30,44 @@ Me caracterizo por diseñar apps con una interfaz sencilla con objetivo de que l
 [![Tkinter](https://img.shields.io/badge/Tkinter-1575F9?style=for-the-badge&logo=tkinter&logoColor=white&labelColor=101010)]()
 [![SDL2](https://img.shields.io/badge/SDL2-1575F9?style=for-the-badge&logo=sdl2&logoColor=white&labelColor=101010)]()
 
+
+### He desarrollado apps tanto para clientes como propias:
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://play.google.com/store/apps/details?id=com.zursan.cantabingo&hl=es&gl=US)">
+<img src="https://bd.joseviciana.site/img/ico_cantabingo.png">
+</a>
+</td>
+<td>
+<a href="https://play.google.com/store/apps/details?id=com.zursan.botones&hl=es&gl=US">
+<img src="https://bd.joseviciana.site/img/ico_botones.png">
+</a>
+</td>
+<td>
+<a href="https://play.google.com/store/apps/details?id=com.zursan.guessit&hl=es&gl=US">
+<img src="https://bd.joseviciana.site/img/ico_guessit.png">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://play.google.com/store/apps/details?id=com.zursanapp.skullgame&hl=es&gl=US">
+<img src="https://bd.joseviciana.site/img/ico_skullgame.png">
+</a>
+</td>
+<td>
+<a href="https://play.google.com/store/apps/details?id=com.joseviciana.hipoteca&hl=es&gl=US">
+<img src="https://bd.joseviciana.site/img/ico_hipoteca.png">
+</a>
+</td>
+<td>
+<a href="https://play.google.com/store/apps/details?id=com.joseviciana.interescompuesto&hl=es&gl=US">
+<img src="https://bd.joseviciana.site/img/ico_interescompuesto.png">
+</a>
+</td>
+</tr>
+</table>
 <!--
 **JoseViciana/JoseViciana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
